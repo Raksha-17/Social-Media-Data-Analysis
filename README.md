@@ -31,6 +31,7 @@ The first step is to import all the necessary libraries that will be used in the
 
 <img width="436" height="338" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/e6ecc198-b55b-4425-ba81-ccc8ca161922" />
 
+
 <img width="368" height="528" alt="Screenshot (60)" src="https://github.com/user-attachments/assets/d3446bd4-6a36-48c2-baf2-bab6538a3a5f" />
 
 <img width="224" height="213" alt="Screenshot (61)" src="https://github.com/user-attachments/assets/dd15b795-72f4-4aca-9ec0-1dc123d88488" />
@@ -38,6 +39,7 @@ The first step is to import all the necessary libraries that will be used in the
 ## Task 4 – Clean the data
 
 <img width="498" height="391" alt="Screenshot (62)" src="https://github.com/user-attachments/assets/9e35e265-bdca-451e-8ac9-af43ef37525f" />
+
 
 <img width="369" height="352" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/05294e01-c697-4b7d-aab0-ea091d245a41" />
 
@@ -75,7 +77,7 @@ The first step is to import all the necessary libraries that will be used in the
 - Insights can guide content strategy by prioritizing high-engagement categories identified in the synthetic data.
 - The approach demonstrates reproducibility and scalability for larger datasets and more complex features.
 
-** Next steps**
+**Next steps**
 - Introduce realistic category-specific engagement rates, time-based trends, and outlier handling.
 - Extend to predictive modeling of Likes based on Category and Date features.
 
